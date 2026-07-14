@@ -157,6 +157,4 @@ python step4_visualise.py       # Generate all charts
 
 ## 👤 Author
 
-Built as part of a research portfolio for applications to Japan computational science 
-programs (RIKEN, OIST, NII).  
-Combining British Airways and Commonwealth Bank Forage job simulation datasets.
+Built as part of a research portfolio.
